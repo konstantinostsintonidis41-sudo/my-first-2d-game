@@ -20,17 +20,17 @@ To play the game locally on your machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/konstantinostsintonidis41-sudo/my-first-2d-game.git
-   Install Pygame:
+1. Install Pygame:
 Make sure you have Python installed, then run:
-code pip install pygame
-Run the game:
-code python platformer.py
+pip install pygame
+2.Run the game:
+python platformer.py
 (Note: Ensure all image assets like bg.png, idle.png, etc., are in the same directory).
-⌨️ Controls
+Controls
 [W], [UP Arrow], or [SPACE] : Jump (Press against a wall to Wall-Jump!)
 [A],[D] or [Left/Right Arrows] : Move Left / Right
 [R] : Restart (After reaching the final door or falling)
-🛠️ Tech Stack
+Tech Stack
 Language: Python 3.x
 Library: Pygame
 Architecture: Object-Oriented Programming (OOP)
